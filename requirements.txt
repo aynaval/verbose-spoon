@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+db-sqlite3
+python-multipart
